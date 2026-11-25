@@ -23,7 +23,11 @@
       "edgeToEdgeEnabled": true
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    },
+    "experiments": {
+      "baseUrl": "/systemnatys-evaluacion-electiva"
     },
     "description": "Moises Pereira\nCI: 31039711\nSC: 3103\nElectiva III"
   }
