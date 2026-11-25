@@ -22,6 +22,20 @@ const INITIAL_USERS = [
     password: 'ProyectoTest2026',
     role: 'Operador',
   },
+  {
+    id: 4,
+    name: 'Ismael Torres',
+    email: 'ismael.test@natys.local',
+    password: 'ProyectoTest2026',
+    role: 'Supervisor',
+  },
+  {
+    id: 5,
+    name: 'Santiago Loyo',
+    email: 'santiago.test@natys.local',
+    password: 'ProyectoTest2026',
+    role: 'Cliente',
+  },
 ];
 
 const initialState = {
